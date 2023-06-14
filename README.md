@@ -1,6 +1,6 @@
 [website live](https://aptoslauncher-assistant.aptoslauncher.tech/)
 
-
+# First install Aptos Petra  Blockchain wallet to connect [petra wallet](https://petra.app/)
 
 # packages
 
