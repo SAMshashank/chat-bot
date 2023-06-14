@@ -1,6 +1,6 @@
 # packages
 
-1. [creating react app](npm create vite@latest) then (npm i)
+1. [creating react app](npm create-create-react-app) then (npm i)
 
 2. [react redux i ] (npm i react-redux @reduxjs/toolkit)
 
